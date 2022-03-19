@@ -5,7 +5,7 @@ class prank():
         import getpass
         import turtle
         name = getpass.getuser()
-        #os.chdir(f"C:\\Users\\{name}\\Downloads")
+        os.chdir(f"C:\\Users\\{name}\\Downloads")
 
         for i in range(100):
             with open(f"file{i}.txt","w") as f:
