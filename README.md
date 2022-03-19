@@ -9,7 +9,7 @@ ___
 ```python
 prank.create()
 ```
-Создает 100 txt файлов на 1 гигобайт
+Создает 100 txt файлов на 1 гигабайт
 ___
 ```python
 prank.clear()
