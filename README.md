@@ -1,5 +1,5 @@
 # Просто модуль для приколов.
-**Установка через [PyPi](https://pypi.org/project/fileprank/)**:
+**Установка последней версии через [PyPi](https://pypi.org/project/fileprank/)**:
 ```python
 pip install fileprank
 ```
